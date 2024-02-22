@@ -1,0 +1,15 @@
+ - start the malware *
+ - check the os *
+ - get the required info
+ - list every file in the system
+ - create a new file + a .exe program
+ - create the key
+ - use the key to encrypt everything exept the file and the .exe
+ - create 20+ files 
+ - change the icon and the extenction of every file
+ - auto run the .exe program  
+ - start the countdown
+ - deletes itself
+ - add a kill switch
+
+these are the steps of executing the code
